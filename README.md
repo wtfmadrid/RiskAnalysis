@@ -1,4 +1,4 @@
-# 📊 Banking Analysis Dashboard
+# 📊 Financial Data Analysis Dashboard
 
 ## Overview
 
