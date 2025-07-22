@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project focuses on a comprehensive analysis of a banking dataset to understand client distribution, financial product usage, and lending insights. The core objective is to derive meaningful business intelligence and risk indicators from banking operations and customer behaviour.
+This project undertakes a comprehensive analysis of a banking dataset to gain insights into client distribution, financial product usage, and lending trends. The core objective is to derive meaningful business intelligence and risk indicators from banking operations and customer behaviour.
+
+Overview of the Dashboard: https://drive.google.com/file/d/1YetIaapiC0I10LgfhtpvlAeVekEATC2y/view?usp=sharing 
 
 ## Features
 
